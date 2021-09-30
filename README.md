@@ -1,4 +1,4 @@
-## Olá, sou o Weslley Duarte
+## Bem vindo(a), me chamo Weslley Duarte
 
 <div align="center">
   <a href="https://www.linkedin.com/in/weslleyduarte/">
