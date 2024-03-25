@@ -1,4 +1,4 @@
-<img align="right" height="590px" src="https://raw.githubusercontent.com/gist/weesduarte/edc9dc49a15a6b38792e2fd4d4089ae4/raw/bce87b83afae94f75c8efa166c4a171e50a50de6/githubcard.svg">
+<img align="right" height="590px" src="https://raw.githubusercontent.com/gist/weesduarte/6db2b70fa4d3491dd414f6f0c9760e88/raw/dd52d8f0d245a0a5ba5ef85db55cfe603db1f68a/githubcard.svg">
 
 <h1 align="left">Olá Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
